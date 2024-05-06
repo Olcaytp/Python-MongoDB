@@ -59,7 +59,8 @@ def view_books_by_author():
     if books:
         for book in books:
             print(book)
-    print("No author found!")
+    else:
+        print("No author found!")
 
 def view_books_in_stock():
     print("--- View Books in Stock ---")
