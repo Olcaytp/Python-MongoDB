@@ -34,3 +34,8 @@ Once the application is running, follow the on-screen instructions to perform va
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Screenshots
+![Screenshot 1](https://github.com/Olcaytp/Python-MongoDB/blob/main/assets/1.png)
+![Screenshot 2](https://github.com/Olcaytp/Python-MongoDB/blob/main/assets/2.png)
+![Screenshot 3](https://github.com/Olcaytp/Python-MongoDB/blob/main/assets/3.png)
